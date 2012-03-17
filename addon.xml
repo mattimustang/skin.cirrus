@@ -6,7 +6,6 @@
 	provider-name="Crookas">
 	<requires>
 		<import addon="xbmc.gui" version="2.11"/>
-		<import addon="script.recentlyadded" version="1.0.4"/>
 	</requires>
 	<extension 
 		point="xbmc.gui.skin"
